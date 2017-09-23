@@ -1,1 +1,2 @@
-# machine-learning-python
+# Machine-Learning with Python
+Machine learning using scikit-learn
